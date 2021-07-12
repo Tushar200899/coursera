@@ -1,0 +1,16 @@
+*{
+    font-weight: bold;
+}
+#ch ,#be ,#su{
+    background-color: rgb(124, 100, 146);
+}
+#n1 ,#n2 ,#n3{
+    background-color: rgb(22, 161, 120);
+}
+.row{
+    padding:0  15px;
+}@media screen and (min-width:568px){
+    #n1 ,#n2 ,#n3{
+        visibility: hidden !important;;
+    }
+}
